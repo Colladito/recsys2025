@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=universal_behavioral_modeling_challenge/requirements.txt universal_behavioral_modeling_challenge/requirements.in
 #
-aiohappyeyeballs==2.5.0
+# aiohappyeyeballs==2.5.0
     # via aiohttp
 aiohttp==3.11.13
     # via fsspec
